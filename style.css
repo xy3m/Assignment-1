@@ -52,4 +52,85 @@ header img {
   margin-right: 65px;
 }
 
+#second-title {
+  font-size: 40px;
+  text-align: center;
+}
+
+#second-desc {
+  font-size: 16px;
+  opacity: 0.7;
+}
+
+#second {
+  margin: 160px;
+}
+
+.second-container {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+}
+
+.vis-title {
+  font-size: 20px;
+}
+
+.vis-desc {
+  font-size: 16px;
+}
+
+.shadow {
+  padding: 24px;
+  height: 325px;
+  width: 400px;
+}
+
+.one {
+box-sizing: border-box;
+border-radius: 16px;
+
+background: rgba(84, 144, 245, 0.2);
+}
+
+.two {
+box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(198, 228, 214);
+}
+
+.three {
+box-sizing: border-box;
+border-radius: 16px;
+
+background: rgb(247, 235, 207);
+}
+
+.btn-second {
+  width: 120px;
+  height: 20px;
+  border-radius: 8px;
+  padding-bottom: 50px;
+  border: none;
+}
+
+.bt-color {
+  color: white;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.bt1 {
+  background-color: #5490F5;
+}
+
+.bt2 {
+  background-color: #09A15C;
+}
+
+.bt3 {
+  background-color: #FFC239;
+}
 
