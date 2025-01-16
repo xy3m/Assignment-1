@@ -182,4 +182,57 @@ background: rgb(247, 235, 207);
   margin-top: 30px;
 }
 
+footer {
+  margin: 160px;
+}
 
+.ft-text {
+  color: black;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.ft-bt {
+  box-sizing: border-box;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  width: 240px;
+  height: 128px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.1);
+  margin: 24px;
+}
+
+.ft-g {
+  background-color: rgb(198, 228, 214);
+}
+
+.donate-box {
+  width: 1032px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.1);
+  background: rgb(255, 255, 255);
+  border: none;
+  margin-left: 70px;
+  margin-top: 32px;
+}
+
+.box-txt {
+  font-size: 24px;
+  font-weight: 400px;
+  color: black;
+  opacity: 0.3;
+  text-align: center;
+}
+
+.last {
+  margin-top: 32px;
+  margin-left: 510px;
+}
+
+.btn-third {
+  width: 151px;
+  height: 56px;
+  border-radius: 8px;
+  padding-bottom: 50px;
+  border: none;
+}
